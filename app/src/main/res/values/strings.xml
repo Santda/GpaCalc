@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GPA_Santda_Calculator</string>
+    <string name="text1">Grade 1</string>
+    <string name="text2">Grade 2</string>
+    <string name="text3">Grade 3</string>
+    <string name="text4">Grade 4</string>
+    <string name="text5">Grade 5</string>
+    <string name="edit1">""</string>
+    <string name="edit2">""</string>
+    <string name="edit3">""</string>
+    <string name="edit4">""</string>
+    <string name="edit5">""</string>
+    <string name="btntxt">Compute GPA</string>
+</resources>
